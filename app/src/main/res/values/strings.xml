@@ -14,4 +14,5 @@
         <item>November</item>
         <item>December</item>
     </string-array>
+    <string name="name">Name</string>
 </resources>
